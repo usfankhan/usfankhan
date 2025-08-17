@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Usfan Ali Khan — a final-year Computer Science Engineering student and aspiring Software Developer.
-💫 About Me:I'm Currently in my Final-Year Computer Science Engineering Student | Aspiring Software Developer<br><br>Passionate about building innovative and efficient software solutions with skills in Java, C, React.js, SQL, MongoDB, OOP, and DSA. Strong problem-solving mindset and experience in developing clean, maintainable code through academic projects and internships.<br><br>🔹
+💫 About Me:I'm Currently in my Final-Year Computer Science Engineering Student | Aspiring Software Developer<br><br>Passionate about building innovative and efficient software solutions with skills in Java, C, React.js, SQL, MongoDB, OOP, and DSA. Strong problem-solving mindset and experience in developing clean, maintainable code through academic projects and internships.<br>
 # 💫 Core Skills: 
-Java | C | React.js | SQL | MongoDB | OOP | DSA<br>🔹 <br>🔹
+Java | C | React.js | SQL | MongoDB | OOP | DSA<br>
 
 # 💫 Interests: 
 Web Development | Cloud Computing | Java Developer | Software Engineer
