@@ -21,7 +21,9 @@ Email: [usfanalikhancse@gmail.com](mailto:usfanalikhancse@gmail.com)
 ## 🌐 Find Me on the Internet
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/usfan-ali-khan)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%2300C200?logo=portfolio&logoColor=white&style=for-the-badge)](https://usfankhan.github.io/Portfolio-usfanalikhan_/)
+[![LeetCode Profile](https://img.shields.io/badge/LeetCode-Profile-yellow?logo=LeetCode)](https://leetcode.com/u/usfankhan43/)
 [![Linktree](https://img.shields.io/badge/Linktree-%2300C200?logo=linktree&logoColor=white&style=for-the-badge)](https://linktr.ee/usfankhan43)  
+[![HackerRank Profile](https://img.shields.io/badge/HackerRank-Profile-2EC866?logo=hackerrank&logoColor=white&style=for-the-badge)](https://www.hackerrank.com/profile/usfankhan43)
 
 
 ---
