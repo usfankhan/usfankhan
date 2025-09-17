@@ -46,22 +46,4 @@ Email: [usfanalikhancse@gmail.com](mailto:usfanalikhancse@gmail.com)
 
 ---
 
-## 📊 GitHub Stats
-<div align="center">
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=usfankhan&theme=radical&show_icons=true&hide_border=false&count_private=true)
-  <br/>
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=usfankhan&theme=radical&hide_border=false)
-  <br/>
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=usfankhan&theme=radical&hide_border=false&layout=compact)
-</div>
-
----
-
-## 👀 Visitors
-<div align="center">
-  [![Visitor Count](https://profile-counter.glitch.me/usfankhan/count.svg)](https://profile-counter.glitch.me/usfankhan/count.svg)
-</div>
-
----
-
 ✨ **Made with ❤️ and ☕ by Usfan Ali Khan**
