@@ -10,12 +10,12 @@
 ---
 
 ## 🌱 Currently Exploring
-React.js | Cloud Computing | Java Development  
+| Java Development | Full Stack Development | Backend Developer
 
 ---
 
 ## 📧 How to Reach Me
-Email: [usfanalikhancse@gmail.com](mailto:usfanalikhancse@gmail.com)  
+Email: [usfankhan43@gmail.com](mailto:usfankhan43@gmail.com)  
 
 ---
 
