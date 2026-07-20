@@ -1,4 +1,5 @@
 # 👋 Hi, I’m Usfan Ali Khan  
+<img width="1280" height="320" alt="banner_usfan (1)" src="https://github.com/user-attachments/assets/0216298f-ae0f-4b9d-b6aa-d0e856164267" />
 
 <div align="center">
 
