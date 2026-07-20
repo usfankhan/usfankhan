@@ -1,3 +1,4 @@
+<div align="center">
 # 👋 Hi, I’m Usfan Ali Khan  
 <img width="1280" height="320" alt="banner_usfan (1)" src="https://github.com/user-attachments/assets/0216298f-ae0f-4b9d-b6aa-d0e856164267" />
 
@@ -14,7 +15,6 @@ Email: [usfankhan43@gmail.com](mailto:usfankhan43@gmail.com)
 ---
 
 ## 🌐 Find Me on the Internet
-<div align="center">
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/usfan-ali-khan)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%2300C200?logo=portfolio&logoColor=white&style=for-the-badge)](https://usfankhan.github.io/Portfolio-usfanalikhan_/)
 [![LeetCode Profile](https://img.shields.io/badge/LeetCode-Profile-yellow?logo=LeetCode)](https://leetcode.com/u/usfankhan43/)
