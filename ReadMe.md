@@ -18,7 +18,7 @@ Email: [usfankhan43@gmail.com](mailto:usfankhan43@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/usfan-ali-khan)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%2300C200?logo=portfolio&logoColor=white&style=for-the-badge)](https://usfankhan.github.io/Portfolio-usfanalikhan_/)
 [![LeetCode Profile](https://img.shields.io/badge/LeetCode-Profile-yellow?logo=LeetCode)](https://leetcode.com/u/usfankhan43/)
-</div>
+
 
 ---
 ## 🛠 Languages and Tools
@@ -33,6 +33,6 @@ Email: [usfankhan43@gmail.com](mailto:usfankhan43@gmail.com)
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
 
 </div>
----
+</div>---
 
 ✨ **Made with ❤️ and ☕ by Usfan Ali Khan**
